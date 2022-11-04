@@ -1,2 +1,1 @@
-# wawa-s-cc-saves
-All of my cookie clicker saves overtime.
+A GitHub Repository where i just save my cookie clicker progress
